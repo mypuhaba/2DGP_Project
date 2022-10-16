@@ -1,6 +1,6 @@
 from pico2d import *
 open_canvas()
-gunner = load_image('male_gunner_sprite\\test.png')
+gunner = load_image('gunner_sprite\\test.png')
 x = 70
 n = 0
 frame = 0
